@@ -1,0 +1,15 @@
+LIBRARY DllEntryExitDataOutput
+EXPORTS
+	DataControlMain @1
+	DataControlStartProc @2
+	DataControlEndProc @3
+	GetEditDataProc @4
+	PutEditDataProc @5
+	ClearLevelProc @6
+	SetEntryExitDataTitleProc @7
+	PrintDataControlProc @8
+	CreateEditDataProc @9
+	CheckLevelProc @10
+	PrintFraudDataFileProc @11
+	PrintReportFileProc @12
+	PrintScreenProc @13

@@ -1,0 +1,20 @@
+LIBRARY OperationsSupport
+EXPORTS
+	GetEnvironmentDataProc @1
+	DeleteDesignationCharProc @2
+	SplitDataProc @3
+	CreateEventMessageProc @4
+	MultiToWideProc @5
+	WideToMultiProc @6
+	ParseArgsProc @7
+	GetErrorMessageProc @8
+	CopyFileProc @9
+	ChangeFileNameProc @10
+	DeleteFileProc @11
+	CheckFileStatProc @12
+	GetConvertFileNameProc @13
+	CreateFileNameProc @14
+	GetFullPathProc @15
+	LogOutputControlProc @16
+	WriteTraceLogProc @17
+	WriteDataLogProc @18
